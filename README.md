@@ -2,4 +2,5 @@
 
 This is still  under development.
 
-Hello World, please accept my pull request. Thanks.
+Hello World, please accept my pull request.
+
